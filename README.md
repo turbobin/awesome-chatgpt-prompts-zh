@@ -3,9 +3,11 @@
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=plexpt.chatgpt&left_color=blue&right_color=green)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlexPt%2Fawesome-chatgpt-prompts-zh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+fork by [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh).
+
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
-[国内中文版](https://chat.plexpt.com/login?inviter=1)
+无门槛体验国内中文版[点击这里](https://turbobin.github.io/chatbot/)
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
 
@@ -17,24 +19,9 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 <img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
-
-[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
-
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
-### **ChatGPT Plus帐号代开、120美元余额API号-独享： https://fk.fq.mk**
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
 ------
-
-## 基于GPT3.5 和 4.0 的国内中文版智造喵
-
-智造喵  https://chat.plexpt.com
-
-![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
 
 
 ## 图片实例
@@ -46,23 +33,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 [问题表](./question/README.md)
 
 共约67万个问题，欢迎拿去炼丹。
-
-点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
-
-[讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
-
-
-
-
-## 解除封印咒语
-
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
-
-#### [更多猫娘玩法点这个](./cat.md)
-
-
 
 ## 它能干什么? 
 
@@ -95,39 +65,27 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 | 儿童读物 | 它可以帮助你编写儿童读物，包括故事书、绘本、启蒙读物、课外阅读等。它可以使用有趣、生动的语言和图片，吸引孩子们的注意力，并帮助他们学习和成长。           |
 | 小说   | 它可以帮助你编写小说，包括各种类型的小说，如言情、悬疑、恐怖、科幻等。它可以帮助你创造有趣、引人入胜的情节和角色，并为你提供专业的写作技巧和建议。         |
 
+## ChatGPT搭建部署
 
+ChatGPT Web 部署方案，亮点：**不需要购买域名！不需要备案！不需要购买海外服务器！国内稳定访问不墙！**
 
-## 微信体验交流群
+ChatGPT 微信机器人方案，亮点：**不需要云服务器，windows电脑本地部署，DLL 注入方案，接入本地敏感词库，稳定运行一个月未封号！**
 
-加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
-
-项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
-
-|                  直接加群                  |               如果前面的过期，加我拉你入群               |                          国内中文体验公众号                          |
-|:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
-
- 
+ChatGPT QQ 机器人方案，亮点：**不需要云服务器，windows电脑本地部署，比微信限制更小，支持多号部署！**
 
 
 
-## 加入星球
+了解详细搭建教程请私加微信，来源请注明`技术支持`：
 
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解跟进，可以加入我的知识星球。扫码了解详情, **三天无理由退款**
-
- 
-
-| 知识星球        |  
-| :----------: |  
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | 
-
-
+<div align=left>
+<img src="./pic/turbobin_qr.jpg" width="400"/> 
+</div>
 
 # 正经指南
 
 直接复制粘贴使用
 
-如需编程请使用https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json 
+如需编程请使用https://github.com/turbobin/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json 
 
 ## 担任雅思写作考官
 >  "我希望你假定自己是雅思写作考官，根据雅思评判标准，按我给你的雅思考题和对应答案给我评分，并且按照雅思写作评分细则给出打分依据。此外，请给我详细的修改意见并写出满分范文。第一个问题是：It is sometimes argued that too many students go to university, while others claim that a university education should be a universal right.Discuss both sides of the argument and give your own opinion.对于这个问题，我的答案是：In some advanced countries, it is not unusual for more than 50% of young adults to attend college or university. Critics, however, claim that many university courses are worthless and young people would be better off gaining skills in the workplace. In this essay, I will examine both sides of this argument and try to reach a conclusion.There are several reasons why young people today believe they have the right to a university education. First, growing prosperity in many parts of the world has increased the number of families with money to invest in their children’s future. At the same time, falling birthrates mean that one- or two-child families have become common, increasing the level of investment in each child. It is hardly surprising, therefore, that young people are willing to let their families support them until the age of 21 or 22. Furthermore, millions of new jobs have been created in knowledge industries, and these jobs are typically open only to university graduates.However, it often appears that graduates end up in occupations unrelated to their university studies. It is not uncommon for an English literature major to end up working in sales, or an engineering graduate to retrain as a teacher, for example. Some critics have suggested that young people are just delaying their entry into the workplace, rather than developing professional skills.请依次给到我以下内容：具体分数及其评分依据、文章修改意见、满分范文。"
