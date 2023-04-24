@@ -75,11 +75,12 @@ ChatGPT QQ 机器人方案，亮点：**不需要云服务器，windows电脑本
 
 
 
-了解详细搭建教程请私加微信，来源请注明`技术支持`：
+了解详细搭建教程请私加微信`turbobin_`，来源请注明`技术支持`：
 
 <div align=left>
-<img src="./pic/turbobin_qr.jpg" width="400"/> 
+<img src="https://turbobin.github.io/chatbot/images/turbobin_qr.jpg" width="400"/> 
 </div>
+
 
 # 正经指南
 
